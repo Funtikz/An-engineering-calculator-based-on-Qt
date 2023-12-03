@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/background_fon.jpg</file>
+        <file>resourses/ikonka.jpg</file>
+        <file>resourses/ikonka2.png</file>
+        <file>resourses/black_fon.jpg</file>
+        <file>resourses/1674372862_catherineasquithgallery-com-p-fon-tekstura-serii-foto-1.jpg</file>
+    </qresource>
+</RCC>
